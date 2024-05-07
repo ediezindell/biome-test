@@ -6,6 +6,13 @@
   "formatter": {
     "indentStyle": "space"
   },
+  "linter": {
+    "rules": {
+      "style": {
+        "useImportType": "off"
+      }
+    }
+  },
   "javascript": {
     "formatter": {
       "quoteStyle": "single"

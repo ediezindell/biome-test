@@ -1,4 +1,4 @@
-import React from 'react';
+import type React from 'react';
 
 const App: React.FC = () => {
   return <p>Hello, World! </p>;
